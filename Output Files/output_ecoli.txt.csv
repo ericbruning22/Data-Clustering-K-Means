@@ -1,0 +1,13 @@
+regular k-means test ecoli.txt 8 100 0.001 100
+
+External Validation
+Best Run: 10
+Best Rand Index Value: 0.915714
+
+Best Jaccard Index Value: 0.699822
+Best Jaccard Run: 10
+
+Best Fowlkes-Mallows Index Value: 0.836554
+Best Fowlkes-Mallows Run: 10
+
+CPU Time: 78502 milliseconds

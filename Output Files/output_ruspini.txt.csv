@@ -1,0 +1,13 @@
+regular k-means test ruspini.txt 4 100 0.001 100
+
+External Validation
+Best Run: 3
+Best Rand Index Value: 1
+
+Best Jaccard Index Value: 1
+Best Jaccard Run: 3
+
+Best Fowlkes-Mallows Index Value: 1
+Best Fowlkes-Mallows Run: 3
+
+CPU Time: 1432 milliseconds

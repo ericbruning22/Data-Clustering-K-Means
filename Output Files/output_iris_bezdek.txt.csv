@@ -1,0 +1,13 @@
+regular k-means test iris_bezdek.txt 3 100 0.001 100
+
+External Validation
+Best Run: 3
+Best Rand Index Value: 0.945402
+
+Best Jaccard Index Value: 0.844457
+Best Jaccard Run: 3
+
+Best Fowlkes-Mallows Index Value: 0.918943
+Best Fowlkes-Mallows Run: 3
+
+CPU Time: 7184 milliseconds

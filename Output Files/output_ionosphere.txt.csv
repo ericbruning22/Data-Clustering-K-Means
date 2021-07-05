@@ -1,0 +1,13 @@
+regular k-means test ionosphere.txt 2 100 0.001 100
+
+External Validation
+Best Run: 17
+Best Rand Index Value: 0.996221
+
+Best Jaccard Index Value: 0.996195
+Best Jaccard Run: 17
+
+Best Fowlkes-Mallows Index Value: 0.998096
+Best Fowlkes-Mallows Run: 17
+
+CPU Time: 69026 milliseconds
